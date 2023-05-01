@@ -9,16 +9,16 @@ function Hero() {
           <h2 className="text-white text-lg font-light tracking-wide lg:max-w-3xl w-full">
             Whether you’re part of a school club, gaming group, worldwide art
             community, or just a handful of friends that want to spend time
-            together, Discord makes it easy to talk every day and hang out more
-            often.
+            together, Community Page of <b> E-Pariksha </b> makes it easy to
+            talk every day and hang out more often.
           </h2>
           <div className="flex flex-col sm:flex-row md:flex-col lg:flex-row md:items-start sm:items-center gap-6">
             <button className="bg-white w-60 font-medium flex items-center justify-center rounded-full p-4 text-lg hover:shadow-2xl hover:text-discord_blurple focus:outline-none transition duration-200 ease-in-out">
               <DownloadIcon className="w-6 mr-2" />
-              Download for Mac
+              Download App
             </button>
             <button className="bg-gray-900 text-white w-72 font-medium flex items-center justify-center rounded-full p-4 text-lg hover:shadow-2xl hover:bg-gray-800 focus:outline-none transition duration-200 ease-in-out">
-              Open Discord in your browser
+              Open E-Pariskha in your browser
             </button>
           </div>
         </div>
